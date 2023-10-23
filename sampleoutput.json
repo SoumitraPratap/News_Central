@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1000,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Cinco Días",
+            "title": "El ahorro de los hogares bajará de sus elevados niveles en 2024 y volverá a la media histórica, según Funcas - Cinco Días",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMioQFodHRwczovL2NpbmNvZGlhcy5lbHBhaXMuY29tL2Vjb25vbWlhLzIwMjMtMTAtMjIvZWwtYWhvcnJvLWRlLWxvcy1ob2dhcmVzLWJhamFyYS1kZS1zdXMtZWxldmFkb3Mtbml2ZWxlcy1lbi0yMDI0LXktdm9sdmVyYS1hLWxhLW1lZGlhLWhpc3RvcmljYS1zZWd1bi1mdW5jYXMuaHRtbNIBsAFodHRwczovL2NpbmNvZGlhcy5lbHBhaXMuY29tL2Vjb25vbWlhLzIwMjMtMTAtMjIvZWwtYWhvcnJvLWRlLWxvcy1ob2dhcmVzLWJhamFyYS1kZS1zdXMtZWxldmFkb3Mtbml2ZWxlcy1lbi0yMDI0LXktdm9sdmVyYS1hLWxhLW1lZGlhLWhpc3RvcmljYS1zZWd1bi1mdW5jYXMuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:25:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La Vanguardia",
+            "title": "Deja una reseña emotiva en un bar y otros clientes se suman a hacer lo mismo: “Pido un aumento para Rebecca” - La Vanguardia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmxhdmFuZ3VhcmRpYS5jb20vY3JpYmVvLzIwMjMxMDIyLzkzMTk1MTMvZGVqYS1yZXNlbmEtZW1vdGl2YS1iYXItb3Ryb3MtY2xpZW50ZXMtc3VtYW4tcGlkby1hdW1lbnRvLXJlYmVjY2EtcG12Lmh0bWzSAYMBaHR0cHM6Ly93d3cubGF2YW5ndWFyZGlhLmNvbS9jcmliZW8vMjAyMzEwMjIvOTMxOTUxMy9kZWphLXJlc2VuYS1lbW90aXZhLWJhci1vdHJvcy1jbGllbnRlcy1zdW1hbi1waWRvLWF1bWVudG8tcmViZWNjYS1wbXYuYW1wLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:08:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Tecnoxplora",
+            "title": "Consulta desde tu móvil toda la información que los bancos conocen sobre tu economía doméstica - Tecnoxplora",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5sYXNleHRhLmNvbS90ZWNub2xvZ2lhLXRlY25veHBsb3JhL2ludGVybmV0L2NvbnN1bHRhLW1vdmlsLXRvZGEtaW5mb3JtYWNpb24tcXVlLWJhbmNvcy1jb25vY2VuLWVjb25vbWlhLWRvbWVzdGljYV8yMDIzMTAyMjY1MzUwZmIxYTFjYmUwMDAwMTdhYzUzMy5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:04:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "iDNES.cz",
+            "title": "VIDEO: Lékařům pomůže robot Hugo. Je šetrnější, přesnější a rychlejší než lidé - iDNES.cz",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmlkbmVzLmN6L3pwcmF2eS9kb21hY2kvcm9ib3QtaHVnby1jaGlydXJnaWUtemFrcm9rLW9wZXJhY2UuQTIzMTAxN18xNTM1MTRfZG9tYWNpX2xpc3bSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:01:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La Vanguardia",
+            "title": "Pon a prueba tu inteligencia con este acertijo visual: ¿Puedes encontrar las tres diferencias? - La Vanguardia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5sYXZhbmd1YXJkaWEuY29tL2NyaWJlby92aXJhbC8yMDIzMTAyMi85MzEzMzM4L3Bvbi1wcnVlYmEtaW50ZWxpZ2VuY2lhLWFjZXJ0aWpvLXZpc3VhbC1wdWVkZXMtZW5jb250cmFyLXRyZXMtZGlmZXJlbmNpYXMtbW1uLmh0bWzSAZEBaHR0cHM6Ly93d3cubGF2YW5ndWFyZGlhLmNvbS9jcmliZW8vdmlyYWwvMjAyMzEwMjIvOTMxMzMzOC9wb24tcHJ1ZWJhLWludGVsaWdlbmNpYS1hY2VydGlqby12aXN1YWwtcHVlZGVzLWVuY29udHJhci10cmVzLWRpZmVyZW5jaWFzLW1tbi5hbXAuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "Cuál es el valor en el mercado de la criptomoneda terra hoy - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL25vdGljaWFzLzIwMjMvMTAvMjIvY3VhbC1lcy1lbC12YWxvci1lbi1lbC1tZXJjYWRvLWRlLWxhLWNyaXB0b21vbmVkYS10ZXJyYS1ob3kv0gF8aHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vbm90aWNpYXMvMjAyMy8xMC8yMi9jdWFsLWVzLWVsLXZhbG9yLWVuLWVsLW1lcmNhZG8tZGUtbGEtY3JpcHRvbW9uZWRhLXRlcnJhLWhveS8_b3V0cHV0VHlwZT1hbXAtdHlwZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:33:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "MARCA.com",
+            "title": "Los coches que transforman a los peatones en brujas y zombies por Halloween... y no son de Tesla - MARCA.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1hcmNhLmNvbS9jb2NoZXMteS1tb3Rvcy9jb2NoZXMvZWxlY3RyaWNvcy8yMDIzLzEwLzIyLzY1MzRmYmYzZTI3MDRlNmM3MzhiNDU3MS5odG1s0gFfaHR0cHM6Ly9hbXAubWFyY2EuY29tL2NvY2hlcy15LW1vdG9zL2NvY2hlcy9lbGVjdHJpY29zLzIwMjMvMTAvMjIvNjUzNGZiZjNlMjcwNGU2YzczOGI0NTcxLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:30:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Xataka",
+            "title": "La automoción ya tiene su primer todoterreno de energía solar. Y ha completado un tour de 1.000 km en... - Xataka",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnhhdGFrYS5jb20vbW92aWxpZGFkL2F1dG9tb2Npb24tdGllbmUtc3UtcHJpbWVyLXRvZG90ZXJyZW5vLWVuZXJnaWEtc29sYXItaGEtY29tcGxldGFkby10b3VyLTEtMDAwLWttLW1hcnJ1ZWNvc9IBf2h0dHBzOi8vd3d3LnhhdGFrYS5jb20vbW92aWxpZGFkL2F1dG9tb2Npb24tdGllbmUtc3UtcHJpbWVyLXRvZG90ZXJyZW5vLWVuZXJnaWEtc29sYXItaGEtY29tcGxldGFkby10b3VyLTEtMDAwLWttLW1hcnJ1ZWNvcy9hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:30:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Lidovky.cz",
+            "title": "Byla to chyba. Škoda vrací do svých aut ovládací tlačítka | Názory - Lidovky.cz",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmxpZG92a3kuY3ovbmF6b3J5L3Nrb2RhLXRsYWNpdGthLWF1dG8uQTIzMTAyMl8xMzA2MDZfbG5fbmF6b3J5X2h1ZNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "Tarifa de la luz en España: la hora más barata y más cara este 23 de octubre - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2VzcGFuYS8yMDIzLzEwLzIyL3RhcmlmYS1kZS1sYS1sdXotZW4tZXNwYW5hLWxhLWhvcmEtbWFzLWJhcmF0YS15LW1hcy1jYXJhLWVzdGUtMjMtZGUtb2N0dWJyZS_SAYoBaHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vZXNwYW5hLzIwMjMvMTAvMjIvdGFyaWZhLWRlLWxhLWx1ei1lbi1lc3BhbmEtbGEtaG9yYS1tYXMtYmFyYXRhLXktbWFzLWNhcmEtZXN0ZS0yMy1kZS1vY3R1YnJlLz9vdXRwdXRUeXBlPWFtcC10eXBl?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:24:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Car & Motor",
+            "title": "Ποιο είναι το πραγματικό κέντρο της Πρωτεύουσας - Πού βρίσκεται το «χιλιόμετρο μηδέν» στην Αθήνα | carandmotor.gr - Car & Motor",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNhcmFuZG1vdG9yLmdyL25lYS9wb3MtbWV0cmFtZS10aXMtaGlsaW9tZXRyaWtlcy1hcG9zdGFzZWlzLXN0aW4tZWxsYWRh0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:20:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "hna.de",
+            "title": "Investor für Sportcheck: Bleibt Filiale in Kassel doch erhalten? - hna.de",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhuYS5kZS9rYXNzZWwvZmlsaWFsa2V0dGUtd2lyZC12ZXJrYXVmdC1ibGVpYnQtc3BvcnRzY2hlY2stbnVuLWRvY2gtaW4ta2Fzc2VsLTkyNTkxODE2Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Monde",
+            "title": "Clément Beaune était l'invité de l'émission « Questions politiques » - Le Monde",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5sZW1vbmRlLmZyL3BvbGl0aXF1ZS9hcnRpY2xlLzIwMjMvMTAvMjIvY2xlbWVudC1iZWF1bmUtZXN0LWwtaW52aXRlLWRlLWwtZW1pc3Npb24tcXVlc3Rpb25zLXBvbGl0aXF1ZXNfNjE5NTk2OF84MjM0NDguaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:14:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "t-online",
+            "title": "Für Naturfreunde: Aldi hat Wildkamera mit Nachtsicht zum halben Preis im Angebot - t-online",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy50LW9ubGluZS5kZS9yYXRnZWJlci9kZWFscy90ZWNobmlrLWRlYWxzL2lkXzEwMDI2MzI2Mi93aWxka2FtZXJhLW1pdC1uYWNodHNpY2h0LWJlaS1hbGRpLXp1bS1oYWxiZW4tcHJlaXMtaW0tYW5nZWJvdC1zcGFycHJlaXMuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "DER SPIEGEL",
+            "title": "Bahlsen: Kunden finden Packungsdesign »zu elitär« - DER SPIEGEL - DER SPIEGEL",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zcGllZ2VsLmRlL3dpcnRzY2hhZnQvdW50ZXJuZWhtZW4vYmFobHNlbi1rdW5kZW4tZmluZGVuLXBhY2t1bmdzZGVzaWduLXp1LWVsaXRhZXItYS1jNzMyNWQxMi0xMWRlLTQ4YjUtOGQ2NS1mYjNkZjM5YmZkYTHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:12:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TopesDeGama",
+            "title": "AliExpress liquida al 67 % el accesorio para bicicleta más vendido en 2023 - TopesDeGama",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdG9wZXNkZWdhbWEuY29tL29mZXJ0YXMvYWxpZXhwcmVzcy9vZmZib25kYWdlLWx1ei1hY2Nlc29yaW8tYmljaWNsZXRhLTIyMTAyM9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:01:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Andro4all",
+            "title": "Mi elegida: la lamparita inteligente de Xiaomi es una compra que no te puedes perder - Andro4all",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5sYXZhbmd1YXJkaWEuY29tL2FuZHJvNGFsbC9vZmVydGFzL21pLWVsZWdpZGEtbGEtbGFtcGFyaXRhLWludGVsaWdlbnRlLWRlLXhpYW9taS1lcy11bmEtY29tcHJhLXF1ZS1uby10ZS1wdWVkZXMtcGVyZGVy0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:01:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zsnews.cn"
+            },
+            "author": null,
+            "title": "广交会实现“开门红”，中外客商投下“信任票” - 中山网",
+            "description": "第134届广交会10月15日在广州开幕，将分三期持续举办至11月4日。10月19日，第一期收官，成效如何？5天时间，超10万名来自全球210个国家和地区的境外采购商踊跃到会，到会人数比上届同期增长超5…",
+            "url": "https://www.zsnews.cn/news/index/view/cateid/37/id/714947.html",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:01:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "GM and Ford will answer to Wall Street and the UAW with third-quarter earnings this week - CNBC",
+            "description": "GM and Ford report third-quarter earnings and future guidance this week amid ongoing strikes and contract negotiations with the United Auto Workers union.",
+            "url": "https://www.cnbc.com/2023/10/22/gm-and-ford-report-q3-earnings-as-wall-street-and-uaw-watch.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107053947-1651264400451-farley_barra.jpg?v=1697972401&w=1920&h=1080",
+            "publishedAt": "2023-10-22T11:00:01Z",
+            "content": "Jim Farley, CEO, Ford, left, and Mary Barra, CEO, General Motors\r\nDETROIT Ready for a tightrope walk?\r\nGeneral Motors and Ford Motor report third-quarter earnings and future guidance this week amid o… [+5851 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "DER STANDARD",
+            "title": "Innovation der Saison: Worauf die Autos bauen - Auto - derStandard.at › Lifestyle - DER STANDARD",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRlcnN0YW5kYXJkLmF0L3N0b3J5LzMwMDAwMDAxODg1NzQvaW5ub3ZhdGlvbi1kZXItc2Fpc29uLXdvcmF1Zi1kaWUtYXV0b3MtYmF1ZW7SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T11:00:00Z",
+            "content": null
+        }
+    ]
+}
