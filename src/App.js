@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from "./MyComponents/header";
-import Footer from './MyComponents/footer';
 import News from './MyComponents/news';
 
 
@@ -10,11 +9,6 @@ function App() {
     <>
     <Header title="News Central"/>
     <News/>
-    
-
-  
-
-    <Footer/>
 
     </>
 
