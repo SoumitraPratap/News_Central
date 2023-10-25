@@ -1,36 +1,32 @@
-import React from 'react'
+import React from 'react';
 import { useState } from 'react';
 
-function Search() {
-    const [newsName, setnewsName] = useState("");
-    const [news, setNews] = useState([]);
+export default function Search(props) {
+    const [init, setInit] = useState(false);
+    const [query, setQuery] = useState("");
 
-    function fetchNews(event) {
-        event.preventDefault();
-        const url = `https://newsapi.org/v2/everything?q=${newsName}&from=2023-09-24&sortBy=publishedAt&apiKey=aaee3d61e4684322813323f585d68de7`;
-        fetch(url)
-            .then(res => res.json())
-            .then(data => setNews(data.results));
+    async function handleClick() {
+        let url = `https://newsapi.org/v2/everything?q=${ encodeURIComponent(query != "" ? query : "India") }&from=2023-09-25&sortBy=publishedAt&apiKey=d6ebd0c313ea482fb744d67ff0e18724`;
+        let data = await fetch(url);
+        let parsedData = await data.json();
+        if (parsedData.articles) {
+            props.setArticles(parsedData.articles.filter(e => e.title != "[Removed]"));
+        }
     }
-    function handleNewsName(event) {
-        console.log(event.target.value);
-        setnewsName(event.target.value);
+
+    if (!init) {
+        handleClick();
+        setInit(true);
+    }
+
+    function handleTyping(ev) {
+        setQuery(ev.target.value);
     }
 
     return (
-        <form class="d-flex" role="search" onSubmit={fetchNews}>
-            <input class="form-control me-2" type="search" value={newsName} onChange={handleNewsName} placeholder="Search" aria-label="Search" />
-            <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
+        <>
+        <input class="form-control me-2" type="search" value={query} onChange={handleTyping} placeholder="News Topic" aria-label="Search" />
+        <button class="btn btn-outline-success" type="submit" onClick={handleClick}>Search</button>
+        </>
     )
 }
-
-export default Search
-
-
-
-
-
-
-
-
