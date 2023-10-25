@@ -2,10 +2,7 @@ import React from 'react'
 import Search from './search'
 
 export default function header(props) {
-
-
   return (
-
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">{props.title}</a>
@@ -17,17 +14,8 @@ export default function header(props) {
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
-
-         
-
-
-
           </ul>
-          <Search/>
-
-
-
-
+          <Search setArticles={props.setArticles}/>
         </div>
       </div>
     </nav>
